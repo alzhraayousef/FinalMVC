@@ -1,607 +1,603 @@
 {
   "Files": [
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
       "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\css\\style.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\stroyka\\stroyka.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\stroyka\\stroyka.css",
       "PackagePath": "staticwebassets\\fonts\\stroyka\\stroyka.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\stroyka\\stroyka.svg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\stroyka\\stroyka.svg",
       "PackagePath": "staticwebassets\\fonts\\stroyka\\stroyka.svg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\stroyka\\stroyka.ttf",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\stroyka\\stroyka.ttf",
       "PackagePath": "staticwebassets\\fonts\\stroyka\\stroyka.ttf"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\stroyka\\stroyka.woff",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\stroyka\\stroyka.woff",
       "PackagePath": "staticwebassets\\fonts\\stroyka\\stroyka.woff"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\aboutus.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\aboutus.jpg",
       "PackagePath": "staticwebassets\\images\\aboutus.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\avatars\\avatar-1.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\avatars\\avatar-1.jpg",
       "PackagePath": "staticwebassets\\images\\avatars\\avatar-1.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\avatars\\avatar-2.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\avatars\\avatar-2.jpg",
       "PackagePath": "staticwebassets\\images\\avatars\\avatar-2.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\avatars\\avatar-3.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\avatars\\avatar-3.jpg",
       "PackagePath": "staticwebassets\\images\\avatars\\avatar-3.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\avatars\\avatar-4.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\avatars\\avatar-4.jpg",
       "PackagePath": "staticwebassets\\images\\avatars\\avatar-4.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\banners\\banner-1-mobile.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\banners\\banner-1-mobile.jpg",
       "PackagePath": "staticwebassets\\images\\banners\\banner-1-mobile.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\banners\\banner-1.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\banners\\banner-1.jpg",
       "PackagePath": "staticwebassets\\images\\banners\\banner-1.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\categories\\category-1.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\categories\\category-1.jpg",
       "PackagePath": "staticwebassets\\images\\categories\\category-1.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\categories\\category-2.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\categories\\category-2.jpg",
       "PackagePath": "staticwebassets\\images\\categories\\category-2.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\categories\\category-3.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\categories\\category-3.jpg",
       "PackagePath": "staticwebassets\\images\\categories\\category-3.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\categories\\category-4.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\categories\\category-4.jpg",
       "PackagePath": "staticwebassets\\images\\categories\\category-4.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\categories\\category-5.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\categories\\category-5.jpg",
       "PackagePath": "staticwebassets\\images\\categories\\category-5.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\categories\\category-6.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\categories\\category-6.jpg",
       "PackagePath": "staticwebassets\\images\\categories\\category-6.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\favicon.png",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\favicon.png",
       "PackagePath": "staticwebassets\\images\\favicon.png"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\languages\\language-1.png",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\languages\\language-1.png",
       "PackagePath": "staticwebassets\\images\\languages\\language-1.png"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\languages\\language-2.png",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\languages\\language-2.png",
       "PackagePath": "staticwebassets\\images\\languages\\language-2.png"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\languages\\language-3.png",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\languages\\language-3.png",
       "PackagePath": "staticwebassets\\images\\languages\\language-3.png"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\languages\\language-4.png",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\languages\\language-4.png",
       "PackagePath": "staticwebassets\\images\\languages\\language-4.png"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\languages\\language-5.png",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\languages\\language-5.png",
       "PackagePath": "staticwebassets\\images\\languages\\language-5.png"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\logos\\logo-1.png",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\logos\\logo-1.png",
       "PackagePath": "staticwebassets\\images\\logos\\logo-1.png"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\logos\\logo-2.png",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\logos\\logo-2.png",
       "PackagePath": "staticwebassets\\images\\logos\\logo-2.png"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\logos\\logo-3.png",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\logos\\logo-3.png",
       "PackagePath": "staticwebassets\\images\\logos\\logo-3.png"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\logos\\logo-4.png",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\logos\\logo-4.png",
       "PackagePath": "staticwebassets\\images\\logos\\logo-4.png"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\logos\\logo-5.png",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\logos\\logo-5.png",
       "PackagePath": "staticwebassets\\images\\logos\\logo-5.png"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\logos\\logo-6.png",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\logos\\logo-6.png",
       "PackagePath": "staticwebassets\\images\\logos\\logo-6.png"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\logos\\logo-7.png",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\logos\\logo-7.png",
       "PackagePath": "staticwebassets\\images\\logos\\logo-7.png"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\megamenu\\megamenu-1.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\megamenu\\megamenu-1.jpg",
       "PackagePath": "staticwebassets\\images\\megamenu\\megamenu-1.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\megamenu\\megamenu-2.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\megamenu\\megamenu-2.jpg",
       "PackagePath": "staticwebassets\\images\\megamenu\\megamenu-2.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\megamenu\\megamenu-3.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\megamenu\\megamenu-3.jpg",
       "PackagePath": "staticwebassets\\images\\megamenu\\megamenu-3.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\payments.png",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\payments.png",
       "PackagePath": "staticwebassets\\images\\payments.png"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\pic2.jpeg",
-      "PackagePath": "staticwebassets\\images\\pic2.jpeg"
-    },
-    {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-1-thumbnail.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-1-thumbnail.jpg",
       "PackagePath": "staticwebassets\\images\\posts\\post-1-thumbnail.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-1.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-1.jpg",
       "PackagePath": "staticwebassets\\images\\posts\\post-1.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-10.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-10.jpg",
       "PackagePath": "staticwebassets\\images\\posts\\post-10.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-2-thumbnail.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-2-thumbnail.jpg",
       "PackagePath": "staticwebassets\\images\\posts\\post-2-thumbnail.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-2.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-2.jpg",
       "PackagePath": "staticwebassets\\images\\posts\\post-2.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-3-thumbnail.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-3-thumbnail.jpg",
       "PackagePath": "staticwebassets\\images\\posts\\post-3-thumbnail.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-3.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-3.jpg",
       "PackagePath": "staticwebassets\\images\\posts\\post-3.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-4.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-4.jpg",
       "PackagePath": "staticwebassets\\images\\posts\\post-4.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-5.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-5.jpg",
       "PackagePath": "staticwebassets\\images\\posts\\post-5.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-6.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-6.jpg",
       "PackagePath": "staticwebassets\\images\\posts\\post-6.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-7.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-7.jpg",
       "PackagePath": "staticwebassets\\images\\posts\\post-7.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-8.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-8.jpg",
       "PackagePath": "staticwebassets\\images\\posts\\post-8.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-9.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-9.jpg",
       "PackagePath": "staticwebassets\\images\\posts\\post-9.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-featured.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\posts\\post-featured.jpg",
       "PackagePath": "staticwebassets\\images\\posts\\post-featured.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-1.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-1.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-1.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-10.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-10.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-10.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-11.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-11.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-11.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-12.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-12.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-12.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-13.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-13.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-13.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-14.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-14.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-14.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-15.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-15.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-15.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16-1.html",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16-1.html",
       "PackagePath": "staticwebassets\\images\\products\\product-16-1.html"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16-1.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16-1.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-16-1.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16-2.html",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16-2.html",
       "PackagePath": "staticwebassets\\images\\products\\product-16-2.html"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16-2.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16-2.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-16-2.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16-3.html",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16-3.html",
       "PackagePath": "staticwebassets\\images\\products\\product-16-3.html"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16-3.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16-3.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-16-3.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16-4.html",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16-4.html",
       "PackagePath": "staticwebassets\\images\\products\\product-16-4.html"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16-4.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16-4.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-16-4.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16.html",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16.html",
       "PackagePath": "staticwebassets\\images\\products\\product-16.html"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-16.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-16.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-2.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-2.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-2.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-3.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-3.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-3.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-4.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-4.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-4.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-5.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-5.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-5.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-6.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-6.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-6.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-7.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-7.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-7.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-8.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-8.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-8.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-9.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\products\\product-9.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-9.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-1-full.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-1-full.jpg",
       "PackagePath": "staticwebassets\\images\\slides\\slide-1-full.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-1-mobile.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-1-mobile.jpg",
       "PackagePath": "staticwebassets\\images\\slides\\slide-1-mobile.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-1.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-1.jpg",
       "PackagePath": "staticwebassets\\images\\slides\\slide-1.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-2-full.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-2-full.jpg",
       "PackagePath": "staticwebassets\\images\\slides\\slide-2-full.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-2-mobile.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-2-mobile.jpg",
       "PackagePath": "staticwebassets\\images\\slides\\slide-2-mobile.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-2.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-2.jpg",
       "PackagePath": "staticwebassets\\images\\slides\\slide-2.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-3-full.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-3-full.jpg",
       "PackagePath": "staticwebassets\\images\\slides\\slide-3-full.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-3-mobile.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-3-mobile.jpg",
       "PackagePath": "staticwebassets\\images\\slides\\slide-3-mobile.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-3.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\slides\\slide-3.jpg",
       "PackagePath": "staticwebassets\\images\\slides\\slide-3.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\sprite.svg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\sprite.svg",
       "PackagePath": "staticwebassets\\images\\sprite.svg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\teammates\\teammate-1.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\teammates\\teammate-1.jpg",
       "PackagePath": "staticwebassets\\images\\teammates\\teammate-1.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\teammates\\teammate-2.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\teammates\\teammate-2.jpg",
       "PackagePath": "staticwebassets\\images\\teammates\\teammate-2.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\images\\teammates\\teammate-3.jpg",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\images\\teammates\\teammate-3.jpg",
       "PackagePath": "staticwebassets\\images\\teammates\\teammate-3.jpg"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\js\\main.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\js\\number.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\js\\number.js",
       "PackagePath": "staticwebassets\\js\\number.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\hager\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Nada\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

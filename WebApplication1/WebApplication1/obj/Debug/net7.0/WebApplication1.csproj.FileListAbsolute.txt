@@ -591,565 +591,846 @@ D:\ITI_Asp.net Core MVC\MY Team project\webApplication2\WebApplication1\WebAppli
 D:\ITI_Asp.net Core MVC\MY Team project\webApplication2\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
 D:\ITI_Asp.net Core MVC\MY Team project\webApplication2\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
 D:\ITI_Asp.net Core MVC\MY Team project\webApplication2\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Azure.Core.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Azure.Identity.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Humanizer.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Build.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Build.Framework.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Common.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Configuration.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Frameworks.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.LibraryModel.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Packaging.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.ProjectModel.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Protocol.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Versioning.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.AttributedModel.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.Convention.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.Hosting.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.Runtime.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.TypedParts.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Drawing.Common.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Memory.Data.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Runtime.Caching.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Security.Permissions.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Windows.Extensions.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
-E:\MVcProject\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Azure.Core.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Azure.Identity.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Humanizer.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Build.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Build.Framework.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Common.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Configuration.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Frameworks.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.LibraryModel.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Packaging.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.ProjectModel.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Protocol.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Versioning.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.AttributedModel.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.Convention.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.Hosting.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.Runtime.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.TypedParts.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Drawing.Common.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Memory.Data.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Runtime.Caching.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Security.Permissions.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Windows.Extensions.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\hager\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
-D:\hager\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Electronica Care\Desktop\MVC2\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Electronica Care\Desktop\MVC Project\MVC_Project\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Azure.Core.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Azure.Identity.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Humanizer.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Common.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nada\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+D:\Nada\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll

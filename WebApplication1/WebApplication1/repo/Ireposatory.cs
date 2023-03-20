@@ -1,6 +1,4 @@
-﻿using System.Linq.Expressions;
-
-namespace WebApplication1.repo
+﻿namespace WebApplication1.repo
 {
     public interface Ireposatory<T>
     {

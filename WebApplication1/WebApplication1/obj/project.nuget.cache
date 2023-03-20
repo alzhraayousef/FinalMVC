@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q97OhAIAlvwK9s1YQ7LQ4iar/ZOOsruQUTSWQWuaihH8Ri2hOWhI3NsqeP1qM9fBscS3VGqQvUM1zkEJi3DN/A==",
+  "dgSpecHash": "fIT22QLC+sUOjKXUIJakc6IBdVUDxpqZYJ954BI/4tYHf5GE9++DE6wTJjWV5QMCG5gXzQlkSlYsaAYxQkUqNw==",
   "success": true,
-  "projectFilePath": "D:\\ITI-9month\\Asp.net Core MVC\\MVCCustomer\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "D:\\Nada\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\96656\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\96656\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

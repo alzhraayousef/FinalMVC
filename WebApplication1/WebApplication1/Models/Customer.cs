@@ -8,7 +8,7 @@
         public virtual List<Order> Orders { get; set; }
         public virtual List<CustomerSelected_SupplierProduct> SelectedItems { get; set; }
 
-       // public int TotalPoint { get; set; }
+        public int TotalPoint { get; set; }
 
         public virtual List<Review> Reviews { get; set;}
 
