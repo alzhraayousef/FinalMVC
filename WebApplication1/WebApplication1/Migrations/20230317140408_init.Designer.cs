@@ -12,8 +12,8 @@ using WebApplication1.Models;
 namespace WebApplication1.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20230314192106_inti")]
-    partial class inti
+    [Migration("20230317140408_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -300,6 +300,9 @@ namespace WebApplication1.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
+                    b.Property<int>("TotalPoint")
+                        .HasColumnType("int");
+
                     b.HasKey("ID");
 
                     b.HasIndex("ApplicationUserId");
@@ -384,6 +387,9 @@ namespace WebApplication1.Migrations
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<double>("OfferPersentage")
+                        .HasColumnType("float");
 
                     b.Property<DateTime>("StartDate")
                         .HasColumnType("datetime2");
@@ -477,6 +483,9 @@ namespace WebApplication1.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
 
+                    b.Property<int>("CustomerId")
+                        .HasColumnType("int");
+
                     b.Property<DateTime>("Date")
                         .HasColumnType("datetime2");
 
@@ -488,6 +497,8 @@ namespace WebApplication1.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("ID");
+
+                    b.HasIndex("CustomerId");
 
                     b.HasIndex("Supplier_ProductID");
 
@@ -541,6 +552,9 @@ namespace WebApplication1.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
 
                     b.Property<int>("OfferID")
+                        .HasColumnType("int");
+
+                    b.Property<int>("PointsForProduct")
                         .HasColumnType("int");
 
                     b.Property<double>("Price")
@@ -750,11 +764,19 @@ namespace WebApplication1.Migrations
 
             modelBuilder.Entity("WebApplication1.Models.Review", b =>
                 {
+                    b.HasOne("WebApplication1.Models.Customer", "Customer")
+                        .WithMany("Reviews")
+                        .HasForeignKey("CustomerId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("WebApplication1.Models.Supplier_Product", "Supplier_Product")
                         .WithMany("Reviews")
                         .HasForeignKey("Supplier_ProductID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("Customer");
 
                     b.Navigation("Supplier_Product");
                 });
@@ -842,6 +864,8 @@ namespace WebApplication1.Migrations
             modelBuilder.Entity("WebApplication1.Models.Customer", b =>
                 {
                     b.Navigation("Orders");
+
+                    b.Navigation("Reviews");
 
                     b.Navigation("SelectedItems");
                 });

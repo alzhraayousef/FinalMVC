@@ -5,7 +5,7 @@ using WebApplication1.ViewModel;
 
 namespace WebApplication1.Controllers
 {
-    [Authorize(Roles ="Admin")]
+    //[Authorize(Roles ="Admin")]
     public class RoleController : Controller
     { 
      private readonly RoleManager<IdentityRole> roleManager;

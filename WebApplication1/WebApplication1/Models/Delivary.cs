@@ -9,10 +9,10 @@
         public string AccountNumber { get; set; }
 
 
-        public virtual ApplicationUser? ApplicationUser { get; set; }
-        public string? ApplicationUserId { get; set; }
+        public virtual ApplicationUser ApplicationUser { get; set; }
+        public string ApplicationUserId { get; set; }
 
-        public virtual List<Order>? Orders { get; set; }
+        public virtual List<Order> Orders { get; set; }
 
     }
 }

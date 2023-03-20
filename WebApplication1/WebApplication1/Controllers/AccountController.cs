@@ -13,13 +13,14 @@ namespace WebApplication1.Controllers
         private readonly UserManager<ApplicationUser> userManager;
         private readonly RoleManager<IdentityRole> roleManager;
         private readonly SignInManager<ApplicationUser> signInManager;
-        Ireposatory<Delivary> delivaryRepo;
-        public AccountController(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager, RoleManager<IdentityRole> roleManager, Ireposatory<Delivary> _delivaryRepo)
+        public Ireposatory<Customer> reposatory;
+
+        public AccountController(Ireposatory<Customer> _reposatory,UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager, RoleManager<IdentityRole> roleManager)
         {
             this.userManager = userManager;
             this.signInManager = signInManager;
             this.roleManager = roleManager;
-            delivaryRepo= _delivaryRepo;
+            reposatory= _reposatory;
         }
 
 
@@ -46,7 +47,7 @@ namespace WebApplication1.Controllers
                 IdentityResult result = await userManager.CreateAsync(user, newUser.Password);//user.PasswordHash
                 if (result.Succeeded)
                 {
-                   //await userManager.AddToRoleAsync(user, "Admin");
+                    //await userManager.AddToRoleAsync(user, "Admin");
                     await userManager.AddToRoleAsync(user, newUser.RoleName);
                     await signInManager.SignInAsync(user, false);
 
@@ -56,7 +57,11 @@ namespace WebApplication1.Controllers
                     }
                     else if (newUser.RoleName == "Customer")
                     {
-                        return RedirectToAction("Index", "Home");
+                        Customer customer = new Customer();
+                        /// ApplicationUser applicationUser= await userManager.FindByNameAsync(newUser.UserName);
+                        customer.ApplicationUserId = user.Id;//applicationUser.Id;
+                        reposatory.create(customer);
+                        return RedirectToAction("index", "Customer", new { id = customer.ID });
                     }
                     else if (newUser.RoleName == "Supplier")
                     {
@@ -64,7 +69,7 @@ namespace WebApplication1.Controllers
                     }
                     else // Delivery
                     {
-                        return RedirectToAction("New", "Delivary");
+                        return RedirectToAction("Index", "Home");
                     }
                 }
                 else
@@ -79,6 +84,13 @@ namespace WebApplication1.Controllers
             return View(newUser);
         }
 
+        //public IActionResult TestCookie()
+        //{
+        //    Claim idClaim = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.NameIdentifier);
+        //    string userid = idClaim.Value;
+        //    return Content(userid);
+
+        //}
 
         public IActionResult Login()
         {
@@ -97,26 +109,8 @@ namespace WebApplication1.Controllers
                     Microsoft.AspNetCore.Identity.SignInResult result = await signInManager.PasswordSignInAsync(user, userVM.Password, userVM.RememberMe, false);
                     if (result.Succeeded)
                     {
-                        
-                        //  return RedirectToAction("Index", "Home");
-                      List<string> roles= (List<string>)await userManager.GetRolesAsync(user);
-                      string role=  roles.FirstOrDefault();
-                        if (role == "Admin")
-                        {
-                            return RedirectToAction("Index", "Home");
-                        }
-                        else if (role == "Customer")
-                        {
-                            return RedirectToAction("Index", "Home");
-                        }
-                        else if (role == "Supplier")
-                        {
-                            return RedirectToAction("Index", "Home");
-                        }
-                        else // Delivary
-                        {
-                            return RedirectToAction("ShowProfile", "Delivary", new { userID = user.Id });
-                        }
+                        //List<string> role =  userManager.GetRolesAsync(user);
+                        return RedirectToAction("Index", "Home");
                     }
                     else
                     {

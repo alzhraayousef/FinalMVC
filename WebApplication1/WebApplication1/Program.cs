@@ -34,6 +34,7 @@ namespace WebApplication1
             builder.Services.AddScoped<Ireposatory<Review>, Reposatory<Review>>();
             builder.Services.AddScoped<Ireposatory<Supplier_Product>, Reposatory<Supplier_Product>>();
             builder.Services.AddScoped<Ireposatory<Supplier_Product_Order>, Reposatory<Supplier_Product_Order>>();
+            //builder.Services.AddScoped<Ireposatory<ApplicationUser>, Reposatory<ApplicationUser>>();
 
             //*********************************
             builder.Services.AddIdentity<ApplicationUser, IdentityRole>(
@@ -67,9 +68,9 @@ namespace WebApplication1
             app.UseAuthentication();
             app.UseAuthorization();
 
-            //app.MapControllerRoute(
-            //    name: "Admin",
-            //    pattern: "Admin/{controller=Role}/{action=New}");
+            app.MapControllerRoute(
+                name: "Admin",
+                pattern: "Admin/{controller=Role}/{action=New}");
 
             app.MapControllerRoute(
                 name: "default",

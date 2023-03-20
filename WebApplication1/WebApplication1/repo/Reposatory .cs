@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 using WebApplication1.Models;
 
 namespace WebApplication1.repo
@@ -25,7 +26,6 @@ namespace WebApplication1.repo
             return c.Find<T>(id);
         }
 
-
         public void create(T t)
         {
             c.Set<T>().Add(t);
@@ -42,6 +42,11 @@ namespace WebApplication1.repo
             c.Remove<T>(tt);
             c.SaveChanges();
         }
+        //public Customer getCustomerByCustomID(int customer_Id)
+        //{
+        //    Customer customer = c.Customers.FirstOrDefault(c=>c.ID==customer_Id &&c.ApplicationUserId==c.ApplicationUser.Id);
+        //    return customer;
+        //}
 
     }
 }

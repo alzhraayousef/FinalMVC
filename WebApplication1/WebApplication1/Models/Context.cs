@@ -8,10 +8,10 @@ namespace WebApplication1.Models
 {
     public class Context : IdentityDbContext<ApplicationUser> //DbContext
     {
-        //public Context() : base()
-        //{
+        public Context() : base()
+        {
 
-        //}
+        }
 
         public Context(DbContextOptions option) : base(option)
         {
@@ -19,11 +19,11 @@ namespace WebApplication1.Models
         }
 
 
-        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        //{
-        //    optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-LKBV544\SQL19;Initial Catalog=E_CommerceSystem;Integrated Security=True;Encrypt=False");
-        //    base.OnConfiguring(optionsBuilder);
-        //}
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-SH1SPK1\SQL2019;Initial Catalog=E_CommerceSystem;Integrated Security=True;Encrypt=False");
+            base.OnConfiguring(optionsBuilder);
+        }
 
 
         //protected override void OnModelCreating(ModelBuilder builder)
